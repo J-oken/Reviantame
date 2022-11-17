@@ -1,0 +1,5 @@
+print('Mi nombre es inigo montoya tu mataste a mi padre preparate para morir')
+print("")
+num1=input("dame un numero")
+num2=unput("dame un numero")
+print('O  resultado de sumar', num1, 'y', num2, 'es', num1+num2)
